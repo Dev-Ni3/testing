@@ -1,1 +1,2 @@
 This is text file with some updates.
+This is nitin txt file.
